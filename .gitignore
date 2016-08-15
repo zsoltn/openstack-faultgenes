@@ -1,3 +1,5 @@
 .idea/
 tools/cache
+tools/reports
 *.json
+.DS_Store
