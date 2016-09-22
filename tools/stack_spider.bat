@@ -1,0 +1,1 @@
+scrapy runspider stack_spider.py -o output.json
